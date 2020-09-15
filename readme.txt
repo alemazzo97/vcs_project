@@ -1,3 +1,7 @@
+VCS PROJECT BY ARCUDI MAZZONI PADELLA
+All the folders are organized in .zip files to gain storage.
+
+
 ABOUT THE DATASET.
 It was impossible to upload all the videos or all the frames so we organize the numeric dataset in order to have the possibility to replicate the scripts
 
