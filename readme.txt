@@ -2,9 +2,6 @@ VCS PROJECT BY ARCUDI MAZZONI PADELLA
 All the folders are organized in .zip files to gain storage.
 
 
-ABOUT THE DATASET.
-It was impossible to upload all the videos or all the frames so we organize the numeric dataset in order to have the possibility to replicate the scripts
-
 ABOUT THE SCRIPTS.
 We began our experiment downloading and organizing the frames in python with the computative power of our laptops, but once we begin to compute the models, we understood that we needed to move to colaboratory in order to have the computative power of the GPU.
 
